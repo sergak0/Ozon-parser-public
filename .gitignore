@@ -1,0 +1,8 @@
+__pycache__
+.idea
+chromedrivers
+supervisor.log
+venv
+settings_on_server.sh
+parser/config.py
+app/config.py
